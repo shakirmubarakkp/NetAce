@@ -1,0 +1,21 @@
+{
+  "short_name": "NetAce",
+  "name": "NetAce: Gamified Exam Prep Platform",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#4F46E5",
+  "display": "standalone",
+  "orientation": "portrait"
+}
